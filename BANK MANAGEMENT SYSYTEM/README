@@ -1,1 +1,6 @@
-
+This is a Bank management system 
+It is a website linked with a database 
+the linking is done using FLASK
+for frontend => HTML &   CSS-5
+for backend => Python
+for database managenent => MongoDB
